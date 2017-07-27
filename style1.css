@@ -1,0 +1,21 @@
+.yenInput {
+  font-size: 32px;
+  width: 270px;
+  min-width: 270px;
+}
+
+button {
+  font-size: 32px;
+  width: 276px;
+  min-width: 276px;
+  color: #0e95e8;
+  background-color: white;
+}
+
+#messageId {
+  font-size: 10px;
+}
+
+#answerId {
+  width: auto;
+}
